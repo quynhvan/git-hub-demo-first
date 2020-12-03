@@ -1,5 +1,7 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
 mot ngay moi bat dau
 di muon 10'
+nhung khong bi phat
+
 
 
