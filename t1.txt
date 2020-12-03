@@ -1,2 +1,3 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
 mot ngay moi bat dau
+linh di hoc muon
